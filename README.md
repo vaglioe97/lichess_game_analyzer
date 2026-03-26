@@ -38,4 +38,4 @@ Black Pieces Analysis: Expand the pipeline to include a dedicated performance re
 
 Automated Insights: Add a "Recommendation Engine" that suggests which openings to study based on the lowest win rates.
 
-![Performance Chart](performance_chart.png).
+![Performance Chart](Figure_2.png).
